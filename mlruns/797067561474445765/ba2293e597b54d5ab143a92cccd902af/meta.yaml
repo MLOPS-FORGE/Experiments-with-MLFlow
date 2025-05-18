@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/797067561474445765/ba2293e597b54d5ab143a92cccd902af/artifacts
+end_time: 1747580452562
+entry_point_name: ''
+experiment_id: '797067561474445765'
+lifecycle_stage: active
+run_id: ba2293e597b54d5ab143a92cccd902af
+run_name: handsome-yak-57
+run_uuid: ba2293e597b54d5ab143a92cccd902af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747580448119
+status: 3
+tags: []
+user_id: arora
