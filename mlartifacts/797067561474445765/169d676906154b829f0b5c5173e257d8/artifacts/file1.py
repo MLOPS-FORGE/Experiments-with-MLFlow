@@ -22,10 +22,7 @@ max_depth = 5
 n_estimators = 10
 
 # Mention your experiment below
-mlflow.set_experiment('exp1')  
-
-#or can use experiment id also mentioned in the ui of the mlflow mention inside 
-# with mlflow.start_run(experiment_id=fhj):
+mlflow.set_experiment('exp1')
 
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)
@@ -54,9 +51,9 @@ with mlflow.start_run():
     mlflow.log_artifact(__file__) #to log this particular .py file as an artifact in mlflow
 
     # tags
-    mlflow.set_tags({"Author": 'Vikash', "Project": "Wine Classification"})
+    # mlflow.set_tags({"Author": 'Vikash', "Project": "Wine Classification"})
 
     # Log the model
-    mlflow.sklearn.log_model(rf, "Random-Forest-Model")
+    # mlflow.sklearn.log_model(rf, "Random-Forest-Model")
 
     print(accuracy)
