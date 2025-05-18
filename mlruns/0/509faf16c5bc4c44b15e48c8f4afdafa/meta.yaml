@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/509faf16c5bc4c44b15e48c8f4afdafa/artifacts
+deleted_time: 1747578895059
+end_time: 1747578865535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 509faf16c5bc4c44b15e48c8f4afdafa
+run_name: upset-asp-634
+run_uuid: 509faf16c5bc4c44b15e48c8f4afdafa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747578865322
+status: 4
+tags: []
+user_id: arora

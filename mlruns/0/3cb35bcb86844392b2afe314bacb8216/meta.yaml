@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3cb35bcb86844392b2afe314bacb8216/artifacts
+deleted_time: 1747578857476
+end_time: 1747578756625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3cb35bcb86844392b2afe314bacb8216
+run_name: zealous-shrike-228
+run_uuid: 3cb35bcb86844392b2afe314bacb8216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747578755121
+status: 4
+tags: []
+user_id: arora

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/db664fe130fd4e4db4bc5dd8898ece79/artifacts
+deleted_time: 1747578881773
+end_time: 1747578152386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: db664fe130fd4e4db4bc5dd8898ece79
+run_name: trusting-calf-730
+run_uuid: db664fe130fd4e4db4bc5dd8898ece79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747578152337
+status: 3
+tags: []
+user_id: arora

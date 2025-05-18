@@ -48,7 +48,7 @@ with mlflow.start_run():
 
     # log artifacts using mlflow
     mlflow.log_artifact("Confusion-matrix.png")
-    mlflow.log_artifact(__file__) #to log this particular .py file as an artifact in mlflow
+    mlflow.log_artifact(__file__)
 
     # tags
     # mlflow.set_tags({"Author": 'Vikash', "Project": "Wine Classification"})
