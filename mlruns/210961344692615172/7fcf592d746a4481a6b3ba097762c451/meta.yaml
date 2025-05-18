@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/210961344692615172/7fcf592d746a4481a6b3ba097762c451/artifacts
+end_time: 1747582900085
+entry_point_name: ''
+experiment_id: '210961344692615172'
+lifecycle_stage: active
+run_id: 7fcf592d746a4481a6b3ba097762c451
+run_name: popular-jay-992
+run_uuid: 7fcf592d746a4481a6b3ba097762c451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747582895065
+status: 3
+tags: []
+user_id: arora
