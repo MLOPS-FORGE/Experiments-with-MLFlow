@@ -1,3 +1,6 @@
 1. mlflow ui
 2. write file1.py 
-3. 
+3. run python .\src\file1.py in powershell
+4. log_artifacts also creates a new folder called mlartifacts 
+5. if you delete any run from mlflow ui that doesnt delete from mlruns. (0 means default experiment)
+6. to permanently delet a run in mlflow delet that folder in mlruns. that way it wont appear in ui also. 

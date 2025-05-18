@@ -22,7 +22,7 @@ max_depth = 5
 n_estimators = 10
 
 # Mention your experiment below
-mlflow.set_experiment('exp1')
+# mlflow.set_experiment('YT-MLOPS-Exp1')
 
 with mlflow.start_run():
     rf = RandomForestClassifier(max_depth=max_depth, n_estimators=n_estimators, random_state=42)
