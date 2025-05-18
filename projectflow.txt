@@ -1,2 +1,3 @@
-pip install mlflow
-mlflow ui
+1. mlflow ui
+2. write file1.py 
+3. 
