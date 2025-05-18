@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/797067561474445765/501fe306341c4542ac8368eaa5682dd2/artifacts
+deleted_time: 1747580421962
+end_time: 1747580311268
+entry_point_name: ''
+experiment_id: '797067561474445765'
+lifecycle_stage: deleted
+run_id: 501fe306341c4542ac8368eaa5682dd2
+run_name: classy-duck-398
+run_uuid: 501fe306341c4542ac8368eaa5682dd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747580305667
+status: 3
+tags: []
+user_id: arora

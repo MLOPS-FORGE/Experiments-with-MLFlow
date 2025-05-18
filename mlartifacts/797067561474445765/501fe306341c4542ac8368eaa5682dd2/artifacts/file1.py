@@ -54,7 +54,7 @@ with mlflow.start_run():
     mlflow.log_artifact(__file__) #to log this particular .py file as an artifact in mlflow
 
     # tags
-    mlflow.set_tags({"Author": 'Nikita', "Project": "Wine Classification"})
+    mlflow.set_tags({"Author": 'Vikash', "Project": "Wine Classification"})
 
     # Log the model
     mlflow.sklearn.log_model(rf, "Random-Forest-Model")
