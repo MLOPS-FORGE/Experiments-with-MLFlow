@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747584281374
+current_stage: None
+description: ''
+last_updated_timestamp: 1747584281374
+name: nik1
+run_id: ba2293e597b54d5ab143a92cccd902af
+run_link: ''
+source: mlflow-artifacts:/797067561474445765/ba2293e597b54d5ab143a92cccd902af/artifacts/Random-Forest-Model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/797067561474445765/ba2293e597b54d5ab143a92cccd902af/artifacts/Random-Forest-Model
+user_id: null
+version: 2
