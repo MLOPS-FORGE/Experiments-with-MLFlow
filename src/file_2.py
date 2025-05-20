@@ -1,4 +1,4 @@
-#remote setup using dagshub
+#remote setup of mlflow using dagshub
 
 import mlflow
 import mlflow.sklearn
